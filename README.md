@@ -1,5 +1,5 @@
 # Lunadrop Repo
-Welcome to the repo of (lunadrop.top)[https://lunadrop.top] .
+Welcome to the repo of https://lunadrop.top.
 All code in this repo will be open source, But if your wanting to use any of it.
 Please credit me using the code below.
 ```html
