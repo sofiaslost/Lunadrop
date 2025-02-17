@@ -21,7 +21,7 @@ main, .navbar {
 }
 
 a {
-    color: #ebdbb2;
+    color: #d5c4a1;
     text-decoration: none;
 }
 
@@ -29,7 +29,23 @@ a:hover {
     text-decoration: underline;
 }
 
+hr {
+    border-color: #665c54;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 8px;
+}
+
+p {
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
 .navright {
     float: right;
     margin-top: -47px;
+}
+
+.serverRight {
+    float: right;
 }
