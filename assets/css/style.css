@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "FantasqueSansMono-Bold";
+    src: url("../FantasqueSansMono-Bold.ttf");
+}
+
+body {
+    background-color: #282828;
+    color: #fbf1c7;
+    font-family: "FantasqueSansMono-Bold";
+
+    margin: 1vw;
+    padding: 1vw;
+}
+
+main, .navbar {
+    padding: 1vw;
+    background-color: #1d2021;
+
+    border: #7c6f64 solid 2px;
+    border-radius: 8px;
+}
+
+a {
+    color: #ebdbb2;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.navright {
+    float: right;
+    margin-top: -47px;
+}
